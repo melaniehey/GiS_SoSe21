@@ -8,7 +8,7 @@
 
 <body>
 <h1 id="Anker">Meine erste Website im SoSe2021</h1>
-<img src="IMG_3584.jpeg" alt="Das bin ich" width="100">
+<img src="IMG_3584.jpeg" alt="Das bin ich" width="100"/>
 <p>Ich heiße <b>Melanie</b> und studiere Online Medien an der <a href="https://www.hs-furtwangen.de">Hochschule Furtwangen</a>!</p>
 <p>.</p>
 <p>.</p>
